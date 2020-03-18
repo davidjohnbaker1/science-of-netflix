@@ -3,6 +3,8 @@
 A code along workshop for the Flatiron School Meetup [The Science Behind Netflix Recommendations : Talk | London](https://www.eventbrite.com/e/virtual-the-science-behind-netflix-recommendations-talk-london-tickets-96698721479).
 The [original materials for this workshop](https://github.com/yishuen/meetup-movie-recommender) were developed by Flatiron NYC Coach [Yish Lim](https://www.linkedin.com/in/yishuen-lim/) and were adapted for online Zoom broadcast by [David John Baker](https://github.com/davidjohnbaker1/science-of-netflix).
 
+![img](img/science_netflix.png)
+
 This version of the workshop is being presented on:
 
 * March, 24th 2020 and can be accessed [here via Zoom](https://wework.zoom.com/j/227461308) 
