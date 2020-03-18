@@ -9,6 +9,8 @@ This version of the workshop is being presented on:
 
 You can access the [slides from here]().
 
+You can access our [collaborative document here]().
+
 The dataset used is **The Movies Dataset** found on Kaggle, specifically from the file `ratings small.csv`: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 If you do want to run the code on your own, download Jupyter Notebook and run these lines in your terminal:
