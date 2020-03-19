@@ -9,9 +9,9 @@ This version of the workshop is being presented on:
 
 * March, 24th 2020 and can be accessed [here via Zoom](https://wework.zoom.com/j/227461308) 
 
-You can access the [slides from here]().
+You can access the [slides from here](https://docs.google.com/presentation/d/1xWDvZqO3D_tr5I_yikwt8eMAzPwsnZZ3PaUiMfio5Lc/edit?usp=sharing).
 
-You can access our [collaborative document here]().
+You can access our [collaborative document here](https://docs.google.com/document/d/1K3qc-olxdh3eJ2uqOIoZOrhuSXdDrKn78nq1U9PALlU/edit?usp=sharing).
 
 The dataset used is **The Movies Dataset** found on Kaggle, specifically from the file `ratings small.csv`: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
