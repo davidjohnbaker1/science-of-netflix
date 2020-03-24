@@ -13,6 +13,8 @@ You can access the [slides from here](https://docs.google.com/presentation/d/1xW
 
 You can access our [collaborative document here](https://docs.google.com/document/d/1K3qc-olxdh3eJ2uqOIoZOrhuSXdDrKn78nq1U9PALlU/edit?usp=sharing).
 
+[Here is a binder](https://mybinder.org/v2/gh/yishuen/meetup-movie-recommender/master) you can launch the notebook from. 
+
 The dataset used is **The Movies Dataset** found on Kaggle, specifically from the file `ratings small.csv`: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 If you do want to run the code on your own, download Jupyter Notebook and run these lines in your terminal:
